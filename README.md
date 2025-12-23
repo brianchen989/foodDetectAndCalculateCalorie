@@ -1,7 +1,7 @@
 # foodDetectAndCalculateCalorie
 foodDetectAndCalculateCalorie
 使用步驟
-1.至...下載額外所需資料集和yolov9檔案
+1.至(https://drive.google.com/drive/u/0/folders/1osv22VzJUNak5KalmIbPsQl8_p02Kgx5)下載額外所需資料集和yolov9檔案
 2.創一個資料夾分別放入1.github中程式2.yolov9檔案
 3.將dataset資料夾放入yolov9的data資料夾中
 4.在終端機中輸入以下(括號內圍說明不用輸入，且建議直接從remindme.md複製下面僅供參考)
